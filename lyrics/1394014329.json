@@ -1,709 +1,712 @@
-[
-  {
-    "startTime": 1,
-    "endTime": 2.5,
-    "japanese": "これから歌う曲の内容は",
-    "koreanPronounce": "코레카라 우타우 쿄쿠노 나이요-와",
-    "koreanMeaning": "이제부터 부를 노래의 내용은",
-    "kanjis": [
-      { "kanji": "歌", "pronounce": "うた", "meaning": "노래" },
-      { "kanji": "曲", "pronounce": "きょく", "meaning": "곡" },
-      { "kanji": "内容", "pronounce": "ないよう", "meaning": "내용" }
-    ]
-  },
-  {
-    "startTime": 2.5,
-    "endTime": 6,
-    "japanese": "僕の頭の中のこと",
-    "koreanPronounce": "보쿠노 아타마노 나카노 코토",
-    "koreanMeaning": "내 머릿속의 이야기",
-    "kanjis": [
-      { "kanji": "僕", "pronounce": "ぼく", "meaning": "나" },
-      { "kanji": "頭", "pronounce": "あたま", "meaning": "머리" },
-      { "kanji": "中", "pronounce": "なか", "meaning": "안" }
-    ]
-  },
-  {
-    "startTime": 6,
-    "endTime": 8,
-    "japanese": "主演はもちろん君で",
-    "koreanPronounce": "슈엔와 모치론 키미데",
-    "koreanMeaning": "주연은 물론 너고",
-    "kanjis": [
-      { "kanji": "主演", "pronounce": "しゅえん", "meaning": "주연" },
-      { "kanji": "君", "pronounce": "きみ", "meaning": "너" }
-    ]
-  },
-  {
-    "startTime": 8,
-    "endTime": 11,
-    "japanese": "僕は助演で監督でカメラマン",
-    "koreanPronounce": "보쿠와 죠엔데 칸토쿠데 카메라만",
-    "koreanMeaning": "나는 조연에 감독에 카메라맨",
-    "kanjis": [
-      { "kanji": "僕", "pronounce": "ぼく", "meaning": "나" },
-      { "kanji": "助演", "pronounce": "じょえん", "meaning": "조연" },
-      { "kanji": "監督", "pronounce": "かんとく", "meaning": "감독" }
-    ]
-  },
-  {
-    "startTime": 11,
-    "endTime": 15,
-    "japanese": "目の奥にあるフィルムで",
-    "koreanPronounce": "메노 오쿠니 아루 휘루무데",
-    "koreanMeaning": "눈 속에 있는 필름으로",
-    "kanjis": [
-      { "kanji": "目", "pronounce": "め", "meaning": "눈" },
-      { "kanji": "奥", "pronounce": "おく", "meaning": "안쪽" }
-    ]
-  },
-  {
-    "startTime": 15,
-    "endTime": 28,
-    "japanese": "作る映画の話さ Ah",
-    "koreanPronounce": "츠쿠루 에이가노 하나시사 Ah",
-    "koreanMeaning": "자아내는 영화의 이야기야 Ah",
-    "kanjis": [
-      { "kanji": "作", "pronounce": "つく", "meaning": "만들다" },
-      { "kanji": "映画", "pronounce": "えいが", "meaning": "영화" },
-      { "kanji": "話", "pronounce": "はなし", "meaning": "이야기" }
-    ]
-  },
-  {
-    "startTime": 28,
-    "endTime": 31,
-    "japanese": "くだらないなと笑ったんなら",
-    "koreanPronounce": "쿠다라나이나토 와랏탄나라",
-    "koreanMeaning": "시시하다고 웃는다면",
-    "kanjis": [
-      { "kanji": "笑", "pronounce": "わら", "meaning": "웃다" }
-    ]
-  },
-  {
-    "startTime": 31,
-    "endTime": 33,
-    "japanese": "掴みはそれで万事OK！",
-    "koreanPronounce": "츠카미와 소레데 반지 OK!",
-    "koreanMeaning": "사로잡기는 그걸로 만사 OK!",
-    "kanjis": [
-      { "kanji": "掴", "pronounce": "つか", "meaning": "잡다" },
-      { "kanji": "万事", "pronounce": "ばんじ", "meaning": "만사" }
-    ]
-  },
-  {
-    "startTime": 33,
-    "endTime": 35,
-    "japanese": "呆れていないでちょっと待って",
-    "koreanPronounce": "아키레테 이나이데 춋토 맛테",
-    "koreanMeaning": "어이없어하지 말고 조금만 기다려줘",
-    "kanjis": [
-      { "kanji": "呆", "pronounce": "あき", "meaning": "질리다" },
-      { "kanji": "待", "pronounce": "ま", "meaning": "기다리다" }
-    ]
-  },
-  {
-    "startTime": 35,
-    "endTime": 39,
-    "japanese": "きっと気に入ってもらえると思うな",
-    "koreanPronounce": "킷토 키니 잇테 모라에루토 오모우나",
-    "koreanMeaning": "분명 마음에 들 거라고 생각하니까",
-    "kanjis": [
-      { "kanji": "気", "pronounce": "き", "meaning": "마음" },
-      { "kanji": "入", "pronounce": "い", "meaning": "들다" },
-      { "kanji": "思", "pronounce": "おも", "meaning": "생각하다" }
-    ]
-  },
-  {
-    "startTime": 39,
-    "endTime": 42,
-    "japanese": "ここまでのダイジェストを",
-    "koreanPronounce": "코코마데노 다이제스토오",
-    "koreanMeaning": "여기까지의 줄거리를",
-    "kanjis": []
-  },
-  {
-    "startTime": 42,
-    "endTime": 48,
-    "japanese": "少しだけ見せるよ",
-    "koreanPronounce": "스코시 다케 미세루요",
-    "koreanMeaning": "조금만 보여 줄게",
-    "kanjis": [
-      { "kanji": "少", "pronounce": "すこ", "meaning": "조금" },
-      { "kanji": "見", "pronounce": "み", "meaning": "보이다" }
-    ]
-  },
-  {
-    "startTime": 48,
-    "endTime": 53,
-    "japanese": "初めて喧嘩した夜の涙",
-    "koreanPronounce": "하지메테 켄카시타 요루노 나미다",
-    "koreanMeaning": "처음으로 싸웠던 밤의 눈물",
-    "kanjis": [
-      { "kanji": "初", "pronounce": "はじ", "meaning": "처음" },
-      { "kanji": "喧嘩", "pronounce": "けんか", "meaning": "싸움" },
-      { "kanji": "夜", "pronounce": "よる", "meaning": "밤" },
-      { "kanji": "涙", "pronounce": "なみだ", "meaning": "눈물" }
-    ]
-  },
-  {
-    "startTime": 53,
-    "endTime": 58,
-    "japanese": "個人的に胸が痛むけれど",
-    "koreanPronounce": "코진테키니 무네가 이타무케레도",
-    "koreanMeaning": "개인적으로는 가슴이 아프지만",
-    "kanjis": [
-      { "kanji": "個人的", "pronounce": "こじんてき", "meaning": "개인적" },
-      { "kanji": "胸", "pronounce": "むね", "meaning": "가슴" },
-      { "kanji": "痛", "pronounce": "いた", "meaning": "아프다" }
-    ]
-  },
-  {
-    "startTime": 58,
-    "endTime": 62,
-    "japanese": "そのまま見続けよう",
-    "koreanPronounce": "소노 마마 미츠즈케요-",
-    "koreanMeaning": "그대로 계속해서 보자",
-    "kanjis": [
-      { "kanji": "見", "pronounce": "み", "meaning": "보다" },
-      { "kanji": "続", "pronounce": "つづ", "meaning": "계속하다" }
-    ]
-  },
-  {
-    "startTime": 62,
-    "endTime": 65,
-    "japanese": "ごめんねと言って",
-    "koreanPronounce": "고멘네토 잇테",
-    "koreanMeaning": "미안하다고 말하고",
-    "kanjis": [
-      { "kanji": "言", "pronounce": "い", "meaning": "말하다" }
-    ]
-  },
-  {
-    "startTime": 65,
-    "endTime": 72.5,
-    "japanese": "仲直りして手を握って…",
-    "koreanPronounce": "나카나오리시테 테오 니깃테…",
-    "koreanMeaning": "화해하고 손을 잡고…",
-    "kanjis": [
-      { "kanji": "仲直", "pronounce": "なかなお", "meaning": "화해" },
-      { "kanji": "手", "pronounce": "て", "meaning": "손" },
-      { "kanji": "握", "pronounce": "にぎ", "meaning": "잡다" }
-    ]
-  },
-  {
-    "startTime": 72.5,
-    "endTime": 78,
-    "japanese": "ほら、ここで君が笑うシーンが",
-    "koreanPronounce": "호라, 코코데 키미가 와라우 시-은가",
-    "koreanMeaning": "봐, 여기서 네가 웃는 장면이",
-    "kanjis": [
-      { "kanji": "君", "pronounce": "きみ", "meaning": "너" },
-      { "kanji": "笑", "pronounce": "わら", "meaning": "웃다" }
-    ]
-  },
-  {
-    "startTime": 78,
-    "endTime": 82,
-    "japanese": "見どころなんだからさ Ah",
-    "koreanPronounce": "미도코로난다카라사 Ah",
-    "koreanMeaning": "하이라이트니까 Ah",
-    "kanjis": [
-      { "kanji": "見", "pronounce": "み", "meaning": "보다" }
-    ]
-  },
-  {
-    "startTime": 82,
-    "endTime": 87,
-    "japanese": "写真にも映せやしない",
-    "koreanPronounce": "샤신니모 우츠세야 시나이",
-    "koreanMeaning": "사진으로도 담아낼 수 없는",
-    "kanjis": [
-      { "kanji": "写真", "pronounce": "しゃしん", "meaning": "사진" },
-      { "kanji": "映", "pronounce": "うつ", "meaning": "비치다" }
-    ]
-  },
-  {
-    "startTime": 87,
-    "endTime": 92,
-    "japanese": "とても些細なその仕草に",
-    "koreanPronounce": "토테모 사사이나 소노 시구사니",
-    "koreanMeaning": "몹시도 사소한 그 행동거지에",
-    "kanjis": [
-      { "kanji": "些細", "pronounce": "ささい", "meaning": "사소한" },
-      { "kanji": "仕草", "pronounce": "しぐさ", "meaning": "행동" }
-    ]
-  },
-  {
-    "startTime": 92,
-    "endTime": 95,
-    "japanese": "どんな暗いストーリーも",
-    "koreanPronounce": "돈나 쿠라이 스토-리-모",
-    "koreanMeaning": "그 어떤 어두운 스토리도",
-    "kanjis": [
-      { "kanji": "暗", "pronounce": "くら", "meaning": "어둡다" }
-    ]
-  },
-  {
-    "startTime": 95,
-    "endTime": 102,
-    "japanese": "覆す瞬間が溢れてる",
-    "koreanPronounce": "쿠츠가에스 슌칸가 아후레테루",
-    "koreanMeaning": "뒤집어 놓는 순간이 흘러넘치고 있어",
-    "kanjis": [
-      { "kanji": "覆", "pronounce": "くつがえ", "meaning": "뒤집다" },
-      { "kanji": "瞬間", "pronounce": "しゅんかん", "meaning": "순간" },
-      { "kanji": "溢", "pronounce": "あふ", "meaning": "넘치다" }
-    ]
-  },
-  {
-    "startTime": 102,
-    "endTime": 107,
-    "japanese": "どれかひとつを切り取って",
-    "koreanPronounce": "도레카 히토츠오 키리톳테",
-    "koreanMeaning": "어딘가 하나를 잘라서",
-    "kanjis": [
-      { "kanji": "切", "pronounce": "き", "meaning": "자르다" },
-      { "kanji": "取", "pronounce": "と", "meaning": "취하다" }
-    ]
-  },
-  {
-    "startTime": 107,
-    "endTime": 109,
-    "japanese": "サムネイルにしよう",
-    "koreanPronounce": "사무네이루니 시요-",
-    "koreanMeaning": "썸네일로 하자",
-    "kanjis": []
-  },
-  {
-    "startTime": 109,
-    "endTime": 116.5,
-    "japanese": "とりあえず今の所は",
-    "koreanPronounce": "토리아에즈 이마노 토코로와",
-    "koreanMeaning": "급한 대로 지금은 말이야",
-    "kanjis": [
-      { "kanji": "今", "pronounce": "いま", "meaning": "지금" },
-      { "kanji": "所", "pronounce": "ところ", "meaning": "곳" }
-    ]
-  },
-  {
-    "startTime": 116.5,
-    "endTime": 120,
-    "japanese": "きっと10年後くらいには",
-    "koreanPronounce": "킷토 쥬-넨고 쿠라이니와",
-    "koreanMeaning": "분명 10년 후쯤에는",
-    "kanjis": [
-      { "kanji": "年後", "pronounce": "ねんご", "meaning": "년후" }
-    ]
-  },
-  {
-    "startTime": 120,
-    "endTime": 122,
-    "japanese": "キャストが増えたりもするんだろう",
-    "koreanPronounce": "캬스토가 후에타리모 스룬다로-",
-    "koreanMeaning": "배역이 늘어나기도 하겠지",
-    "kanjis": [
-      { "kanji": "増", "pronounce": "ふ", "meaning": "늘어나다" }
-    ]
-  },
-  {
-    "startTime": 122,
-    "endTime": 124,
-    "japanese": "今でも余裕なんてないのに",
-    "koreanPronounce": "이마데모 요유-난테 나이노니",
-    "koreanMeaning": "지금도 여유 같은 건 없는데",
-    "kanjis": [
-      { "kanji": "今", "pronounce": "いま", "meaning": "지금" },
-      { "kanji": "余裕", "pronounce": "よゆう", "meaning": "여유" }
-    ]
-  },
-  {
-    "startTime": 124,
-    "endTime": 127,
-    "japanese": "こんな安月給じゃもうキャパオーバー！",
-    "koreanPronounce": "콘나 야스겟큐-쟈 모- 캬파 오-바-!",
-    "koreanMeaning": "이런 박봉으로는 벌써 한도 초과야!",
-    "kanjis": [
-      { "kanji": "安月給", "pronounce": "やすげっきゅう", "meaning": "박봉" }
-    ]
-  },
-  {
-    "startTime": 127,
-    "endTime": 131,
-    "japanese": "きっと情けないところも",
-    "koreanPronounce": "킷토 나사케나이 토코로모",
-    "koreanMeaning": "분명 한심한 부분도",
-    "kanjis": [
-      { "kanji": "情", "pronounce": "なさ", "meaning": "한심하다" }
-    ]
-  },
-  {
-    "startTime": 131,
-    "endTime": 137,
-    "japanese": "山ほど見せるだろう",
-    "koreanPronounce": "야마 호도 미세루 다로-",
-    "koreanMeaning": "산더미만큼 보여 주겠지",
-    "kanjis": [
-      { "kanji": "山", "pronounce": "やま", "meaning": "산" },
-      { "kanji": "見", "pronounce": "み", "meaning": "보이다" }
-    ]
-  },
-  {
-    "startTime": 137,
-    "endTime": 142,
-    "japanese": "苗字がひとつになった日も",
-    "koreanPronounce": "묘-지가 히토츠니 낫타 히모",
-    "koreanMeaning": "성씨가 하나가 된 날도",
-    "kanjis": [
-      { "kanji": "苗字", "pronounce": "みょうじ", "meaning": "성씨" },
-      { "kanji": "日", "pronounce": "ひ", "meaning": "날" }
-    ]
-  },
-  {
-    "startTime": 142,
-    "endTime": 147,
-    "japanese": "何ひとつ代わり映えのない日も",
-    "koreanPronounce": "나니 히토츠 카와리바에노 나이 히모",
-    "koreanMeaning": "무엇 하나 달라진 것 없는 날도",
-    "kanjis": [
-      { "kanji": "何", "pronounce": "なに", "meaning": "무엇" },
-      { "kanji": "代", "pronounce": "か", "meaning": "변하다" },
-      { "kanji": "映", "pronounce": "ば", "meaning": "돋보이다" },
-      { "kanji": "日", "pronounce": "ひ", "meaning": "날" }
-    ]
-  },
-  {
-    "startTime": 147,
-    "endTime": 151,
-    "japanese": "愛しい日々尊い日々",
-    "koreanPronounce": "이토시이 히비 토-토이 히비",
-    "koreanMeaning": "사랑스러운 나날, 소중한 나날",
-    "kanjis": [
-      { "kanji": "愛", "pronounce": "いと", "meaning": "사랑스럽다" },
-      { "kanji": "日々", "pronounce": "ひび", "meaning": "나날" },
-      { "kanji": "尊", "pronounce": "とうと", "meaning": "소중하다" }
-    ]
-  },
-  {
-    "startTime": 151,
-    "endTime": 157,
-    "japanese": "逃さないように忘れないように",
-    "koreanPronounce": "노가사나이 요-니 와스레나이 요-니",
-    "koreanMeaning": "놓치지 않도록, 잊지 않도록",
-    "kanjis": [
-      { "kanji": "逃", "pronounce": "のが", "meaning": "놓치다" },
-      { "kanji": "忘", "pronounce": "わす", "meaning": "잊다" }
-    ]
-  },
-  {
-    "startTime": 157,
-    "endTime": 161,
-    "japanese": "焼き付けていくよ",
-    "koreanPronounce": "야키츠케테 이쿠요",
-    "koreanMeaning": "마음속에 새겨갈 거야",
-    "kanjis": [
-      { "kanji": "焼", "pronounce": "や", "meaning": "새기다" },
-      { "kanji": "付", "pronounce": "つ", "meaning": "붙이다" }
-    ]
-  },
-  {
-    "startTime": 161,
-    "endTime": 167,
-    "japanese": "今、目を細めて恥じらいあって",
-    "koreanPronounce": "이마, 메오 호소메테 하지라이앗테",
-    "koreanMeaning": "지금, 눈을 가늘게 뜨고 수줍어하며",
-    "kanjis": [
-      { "kanji": "今", "pronounce": "いま", "meaning": "지금" },
-      { "kanji": "目", "pronounce": "め", "meaning": "눈" },
-      { "kanji": "細", "pronounce": "ほそ", "meaning": "가늘게뜨다" },
-      { "kanji": "恥", "pronounce": "は", "meaning": "부끄러워하다" }
-    ]
-  },
-  {
-    "startTime": 167,
-    "endTime": 171,
-    "japanese": "永遠を願った僕たちを",
-    "koreanPronounce": "토와오 네갓타 보쿠타치오",
-    "koreanMeaning": "영원을 바랐던 우리들을",
-    "kanjis": [
-      { "kanji": "永遠", "pronounce": "えいえん", "meaning": "영원" },
-      { "kanji": "願", "pronounce": "ねが", "meaning": "바라다" },
-      { "kanji": "僕", "pronounce": "ぼく", "meaning": "나" }
-    ]
-  },
-  {
-    "startTime": 171,
-    "endTime": 176,
-    "japanese": "すれ違いや憂鬱な展開が",
-    "koreanPronounce": "스레치가이야 유-우츠나 텐카이가",
-    "koreanMeaning": "엇갈림이나 우울한 전개가",
-    "kanjis": [
-      { "kanji": "違", "pronounce": "ちが", "meaning": "다르다" },
-      { "kanji": "憂鬱", "pronounce": "ゆううつ", "meaning": "우울" },
-      { "kanji": "展開", "pronounce": "てんかい", "meaning": "전개" }
-    ]
-  },
-  {
-    "startTime": 176,
-    "endTime": 181,
-    "japanese": "引き裂こうとしたその時には",
-    "koreanPronounce": "히키사코-토 시타 소노 토키니와",
-    "koreanMeaning": "갈라놓으려는 그때에는",
-    "kanjis": [
-      { "kanji": "引", "pronounce": "ひ", "meaning": "끌다" },
-      { "kanji": "裂", "pronounce": "さ", "meaning": "찢다" },
-      { "kanji": "時", "pronounce": "とき", "meaning": "때" }
-    ]
-  },
-  {
-    "startTime": 181,
-    "endTime": 186,
-    "japanese": "僕がうるさいくらいの声量で",
-    "koreanPronounce": "보쿠가 우루사이 쿠라이노 세이료-데",
-    "koreanMeaning": "내가 시끄러울 정도의 목소리로",
-    "kanjis": [
-      { "kanji": "僕", "pronounce": "ぼく", "meaning": "나" },
-      { "kanji": "声量", "pronounce": "せいりょう", "meaning": "성량" }
-    ]
-  },
-  {
-    "startTime": 186,
-    "endTime": 191,
-    "japanese": "この歌何度も歌うよ",
-    "koreanPronounce": "코노 우타 난도모 우타우요",
-    "koreanMeaning": "이 노래를 몇 번이고 부를게",
-    "kanjis": [
-      { "kanji": "歌", "pronounce": "うた", "meaning": "노래" },
-      { "kanji": "何", "pronounce": "なん", "meaning": "몇" },
-      { "kanji": "度", "pronounce": "ど", "meaning": "번" }
-    ]
-  },
-  {
-    "startTime": 191,
-    "endTime": 196,
-    "japanese": "だからどうかそばにいて",
-    "koreanPronounce": "다카라 도-카 소바니 이테",
-    "koreanMeaning": "그러니까 부디 곁에 있어줘",
-    "kanjis": []
-  },
-  {
-    "startTime": 196,
-    "endTime": 198,
-    "japanese": "エンドロールなんてもん",
-    "koreanPronounce": "엔도 로-루 난테 몬",
-    "koreanMeaning": "엔딩 크레딧 같은 건",
-    "kanjis": []
-  },
-  {
-    "startTime": 198,
-    "endTime": 206,
-    "japanese": "作りたくもないから",
-    "koreanPronounce": "츠쿠리 타쿠모 나이카라",
-    "koreanMeaning": "만들고 싶지도 않으니까",
-    "kanjis": [
-      { "kanji": "作", "pronounce": "つく", "meaning": "만들다" }
-    ]
-  },
-  {
-    "startTime": 206,
-    "endTime": 211,
-    "japanese": "クランクアップがいつなのか",
-    "koreanPronounce": "쿠랑쿠 앗푸가 이츠나노카",
-    "koreanMeaning": "크랭크 업이 언제인지는",
-    "kanjis": []
-  },
-  {
-    "startTime": 211,
-    "endTime": 215,
-    "japanese": "僕らには決められない",
-    "koreanPronounce": "보쿠라니와 키메라레나이",
-    "koreanMeaning": "우리가 정할 수 없어",
-    "kanjis": [
-      { "kanji": "僕", "pronounce": "ぼく", "meaning": "우리" },
-      { "kanji": "決", "pronounce": "き", "meaning": "정하다" }
-    ]
-  },
-  {
-    "startTime": 215,
-    "endTime": 221,
-    "japanese": "だから風に吹かれていこう",
-    "koreanPronounce": "다카라 카제니 후카레테 이코-",
-    "koreanMeaning": "그러니까 바람에 날려 가자",
-    "kanjis": [
-      { "kanji": "風", "pronounce": "かぜ", "meaning": "바람" },
-      { "kanji": "吹", "pronounce": "ふ", "meaning": "불다" }
-    ]
-  },
-  {
-    "startTime": 221,
-    "endTime": 226,
-    "japanese": "フィルムは用意したよ",
-    "koreanPronounce": "휘루무와 요-이 시타요",
-    "koreanMeaning": "필름은 준비해 뒀어",
-    "kanjis": [
-      { "kanji": "用意", "pronounce": "ようい", "meaning": "준비" }
-    ]
-  },
-  {
-    "startTime": 226,
-    "endTime": 235,
-    "japanese": "一生分の長さをざっと115万キロ",
-    "koreanPronounce": "잇쇼-분노 나가사오 잣토 햐쿠쥬-고만 키로",
-    "koreanMeaning": "평생 분의 길이를 대략 115만 킬로",
-    "kanjis": [
-      { "kanji": "一生", "pronounce": "いっしょう", "meaning": "평생" },
-      { "kanji": "分", "pronounce": "ぶん", "meaning": "분" },
-      { "kanji": "長", "pronounce": "なが", "meaning": "길이" },
-      { "kanji": "万", "pronounce": "まん", "meaning": "만" }
-    ]
-  },
-  {
-    "startTime": 235,
-    "endTime": 241,
-    "japanese": "ほら、ここで君が笑うシーンが",
-    "koreanPronounce": "호라, 코코데 키미가 와라우 시-은가",
-    "koreanMeaning": "봐, 여기서 네가 웃는 장면이",
-    "kanjis": [
-      { "kanji": "君", "pronounce": "きみ", "meaning": "너" },
-      { "kanji": "笑", "pronounce": "わら", "meaning": "웃다" }
-    ]
-  },
-  {
-    "startTime": 241,
-    "endTime": 246,
-    "japanese": "見どころなんだからさ Ah",
-    "koreanPronounce": "미도코로난다카라사 Ah",
-    "koreanMeaning": "하이라이트니까 Ah",
-    "kanjis": [
-      { "kanji": "見", "pronounce": "み", "meaning": "보다" }
-    ]
-  },
-  {
-    "startTime": 246,
-    "endTime": 250,
-    "japanese": "写真にも映せやしない",
-    "koreanPronounce": "샤신니모 우츠세야 시나이",
-    "koreanMeaning": "사진으로도 담아낼 수 없는",
-    "kanjis": [
-      { "kanji": "写真", "pronounce": "しゃしん", "meaning": "사진" },
-      { "kanji": "映", "pronounce": "うつ", "meaning": "비치다" }
-    ]
-  },
-  {
-    "startTime": 250,
-    "endTime": 255,
-    "japanese": "とても些細なその仕草に",
-    "koreanPronounce": "토테모 사사이나 소노 시구사니",
-    "koreanMeaning": "몹시도 사소한 그 행동거지에",
-    "kanjis": [
-      { "kanji": "些細", "pronounce": "ささい", "meaning": "사소한" },
-      { "kanji": "仕草", "pronounce": "しぐさ", "meaning": "행동" }
-    ]
-  },
-  {
-    "startTime": 255,
-    "endTime": 259,
-    "japanese": "どんな暗いストーリーも",
-    "koreanPronounce": "돈나 쿠라이 스토-리-모",
-    "koreanMeaning": "그 어떤 어두운 스토리도",
-    "kanjis": [
-      { "kanji": "暗", "pronounce": "くら", "meaning": "어둡다" }
-    ]
-  },
-  {
-    "startTime": 259,
-    "endTime": 265,
-    "japanese": "覆す瞬間が溢れてる",
-    "koreanPronounce": "쿠츠가에스 슌칸가 아후레테루",
-    "koreanMeaning": "뒤집어 놓는 순간이 흘러넘치고 있어",
-    "kanjis": [
-      { "kanji": "覆", "pronounce": "くつがえ", "meaning": "뒤집다" },
-      { "kanji": "瞬間", "pronounce": "しゅんかん", "meaning": "순간" },
-      { "kanji": "溢", "pronounce": "あふ", "meaning": "넘치다" }
-    ]
-  },
-  {
-    "startTime": 265,
-    "endTime": 270,
-    "japanese": "どれかひとつを切り取って",
-    "koreanPronounce": "도레카 히토츠오 키리톳테",
-    "koreanMeaning": "어딘가 하나를 잘라서",
-    "kanjis": [
-      { "kanji": "切", "pronounce": "き", "meaning": "자르다" },
-      { "kanji": "取", "pronounce": "と", "meaning": "취하다" }
-    ]
-  },
-  {
-    "startTime": 270,
-    "endTime": 275,
-    "japanese": "サムネイルにしよう",
-    "koreanPronounce": "사무네이루니 시요-",
-    "koreanMeaning": "썸네일로 하자",
-    "kanjis": []
-  },
-  {
-    "startTime": 275,
-    "endTime": 279,
-    "japanese": "さあ、これから生まれる",
-    "koreanPronounce": "사-, 코레카라 우마레루",
-    "koreanMeaning": "자, 이제부터 태어날",
-    "kanjis": [
-      { "kanji": "生", "pronounce": "う", "meaning": "태어나다" }
-    ]
-  },
-  {
-    "startTime": 279,
-    "endTime": 285,
-    "japanese": "名場面を探しにいこうよ",
-    "koreanPronounce": "메이바멘오 사가시니 이코-요",
-    "koreanMeaning": "명장면들을 찾으러 가자",
-    "kanjis": [
-      { "kanji": "名場面", "pronounce": "めいばめん", "meaning": "명장면" },
-      { "kanji": "探", "pronounce": "さが", "meaning": "찾다" }
-    ]
-  },
-  {
-    "startTime": 285,
-    "endTime": 290,
-    "japanese": "酸いも甘いも寄り添って",
-    "koreanPronounce": "스이모 아마이모 요리솟테",
-    "koreanMeaning": "쓴맛도 단맛도 함께하며",
-    "kanjis": [
-      { "kanji": "酸", "pronounce": "す", "meaning": "시다" },
-      { "kanji": "甘", "pronounce": "あま", "meaning": "달다" },
-      { "kanji": "寄", "pronounce": "よ", "meaning": "다가붙다" },
-      { "kanji": "添", "pronounce": "そ", "meaning": "따르다" }
-    ]
-  },
-  {
-    "startTime": 290,
-    "endTime": 293,
-    "japanese": "一緒に味わおう",
-    "koreanPronounce": "잇쇼니 아지와오-",
-    "koreanMeaning": "같이 맛보자",
-    "kanjis": [
-      { "kanji": "一緒", "pronounce": "いっしょ", "meaning": "함께" },
-      { "kanji": "味", "pronounce": "あじ", "meaning": "맛보다" }
-    ]
-  },
-  {
-    "startTime": 293,
-    "endTime": 300,
-    "japanese": "フィルムがなくなるまで",
-    "koreanPronounce": "휘루무가 나쿠나루마데",
-    "koreanMeaning": "필름이 다할 때까지",
-    "kanjis": []
-  },
-  {
-    "startTime": 300,
-    "endTime": 325,
-    "japanese": "撮影を続けようこの命ある限り",
-    "koreanPronounce": "사츠에이오 츠즈케요-코노 이노치 아루 카기리",
-    "koreanMeaning": "촬영을 계속하자 이 생명이 다하는 한",
-    "kanjis": [
-      { "kanji": "撮影", "pronounce": "さつえい", "meaning": "촬영" },
-      { "kanji": "続", "pronounce": "つづ", "meaning": "계속하다" },
-      { "kanji": "命", "pronounce": "いのち", "meaning": "생명" },
-      { "kanji": "限", "pronounce": "かぎ", "meaning": "다하는한" }
-    ]
-  }
-]
+{ 
+  "songID": "1394014329",
+  "lyrics": [
+    {
+      "startTime": 1,
+      "endTime": 2.5,
+      "japanese": "これから歌う曲の内容は",
+      "koreanPronounce": "코레카라 우타우 쿄쿠노 나이요-와",
+      "koreanMeaning": "이제부터 부를 노래의 내용은",
+      "kanjis": [
+        { "kanji": "歌", "pronounce": "うた", "meaning": "노래" },
+        { "kanji": "曲", "pronounce": "きょく", "meaning": "곡" },
+        { "kanji": "内容", "pronounce": "ないよう", "meaning": "내용" }
+      ]
+    },
+    {
+      "startTime": 2.5,
+      "endTime": 6,
+      "japanese": "僕の頭の中のこと",
+      "koreanPronounce": "보쿠노 아타마노 나카노 코토",
+      "koreanMeaning": "내 머릿속의 이야기",
+      "kanjis": [
+        { "kanji": "僕", "pronounce": "ぼく", "meaning": "나" },
+        { "kanji": "頭", "pronounce": "あたま", "meaning": "머리" },
+        { "kanji": "中", "pronounce": "なか", "meaning": "안" }
+      ]
+    },
+    {
+      "startTime": 6,
+      "endTime": 8,
+      "japanese": "主演はもちろん君で",
+      "koreanPronounce": "슈엔와 모치론 키미데",
+      "koreanMeaning": "주연은 물론 너고",
+      "kanjis": [
+        { "kanji": "主演", "pronounce": "しゅえん", "meaning": "주연" },
+        { "kanji": "君", "pronounce": "きみ", "meaning": "너" }
+      ]
+    },
+    {
+      "startTime": 8,
+      "endTime": 11,
+      "japanese": "僕は助演で監督でカメラマン",
+      "koreanPronounce": "보쿠와 죠엔데 칸토쿠데 카메라만",
+      "koreanMeaning": "나는 조연에 감독에 카메라맨",
+      "kanjis": [
+        { "kanji": "僕", "pronounce": "ぼく", "meaning": "나" },
+        { "kanji": "助演", "pronounce": "じょえん", "meaning": "조연" },
+        { "kanji": "監督", "pronounce": "かんとく", "meaning": "감독" }
+      ]
+    },
+    {
+      "startTime": 11,
+      "endTime": 15,
+      "japanese": "目の奥にあるフィルムで",
+      "koreanPronounce": "메노 오쿠니 아루 휘루무데",
+      "koreanMeaning": "눈 속에 있는 필름으로",
+      "kanjis": [
+        { "kanji": "目", "pronounce": "め", "meaning": "눈" },
+        { "kanji": "奥", "pronounce": "おく", "meaning": "안쪽" }
+      ]
+    },
+    {
+      "startTime": 15,
+      "endTime": 28,
+      "japanese": "作る映画の話さ Ah",
+      "koreanPronounce": "츠쿠루 에이가노 하나시사 Ah",
+      "koreanMeaning": "자아내는 영화의 이야기야 Ah",
+      "kanjis": [
+        { "kanji": "作", "pronounce": "つく", "meaning": "만들다" },
+        { "kanji": "映画", "pronounce": "えいが", "meaning": "영화" },
+        { "kanji": "話", "pronounce": "はなし", "meaning": "이야기" }
+      ]
+    },
+    {
+      "startTime": 28,
+      "endTime": 31,
+      "japanese": "くだらないなと笑ったんなら",
+      "koreanPronounce": "쿠다라나이나토 와랏탄나라",
+      "koreanMeaning": "시시하다고 웃는다면",
+      "kanjis": [
+        { "kanji": "笑", "pronounce": "わら", "meaning": "웃다" }
+      ]
+    },
+    {
+      "startTime": 31,
+      "endTime": 33,
+      "japanese": "掴みはそれで万事OK！",
+      "koreanPronounce": "츠카미와 소레데 반지 OK!",
+      "koreanMeaning": "사로잡기는 그걸로 만사 OK!",
+      "kanjis": [
+        { "kanji": "掴", "pronounce": "つか", "meaning": "잡다" },
+        { "kanji": "万事", "pronounce": "ばんじ", "meaning": "만사" }
+      ]
+    },
+    {
+      "startTime": 33,
+      "endTime": 35,
+      "japanese": "呆れていないでちょっと待って",
+      "koreanPronounce": "아키레테 이나이데 춋토 맛테",
+      "koreanMeaning": "어이없어하지 말고 조금만 기다려줘",
+      "kanjis": [
+        { "kanji": "呆", "pronounce": "あき", "meaning": "질리다" },
+        { "kanji": "待", "pronounce": "ま", "meaning": "기다리다" }
+      ]
+    },
+    {
+      "startTime": 35,
+      "endTime": 39,
+      "japanese": "きっと気に入ってもらえると思うな",
+      "koreanPronounce": "킷토 키니 잇테 모라에루토 오모우나",
+      "koreanMeaning": "분명 마음에 들 거라고 생각하니까",
+      "kanjis": [
+        { "kanji": "気", "pronounce": "き", "meaning": "마음" },
+        { "kanji": "入", "pronounce": "い", "meaning": "들다" },
+        { "kanji": "思", "pronounce": "おも", "meaning": "생각하다" }
+      ]
+    },
+    {
+      "startTime": 39,
+      "endTime": 42,
+      "japanese": "ここまでのダイジェストを",
+      "koreanPronounce": "코코마데노 다이제스토오",
+      "koreanMeaning": "여기까지의 줄거리를",
+      "kanjis": []
+    },
+    {
+      "startTime": 42,
+      "endTime": 48,
+      "japanese": "少しだけ見せるよ",
+      "koreanPronounce": "스코시 다케 미세루요",
+      "koreanMeaning": "조금만 보여 줄게",
+      "kanjis": [
+        { "kanji": "少", "pronounce": "すこ", "meaning": "조금" },
+        { "kanji": "見", "pronounce": "み", "meaning": "보이다" }
+      ]
+    },
+    {
+      "startTime": 48,
+      "endTime": 53,
+      "japanese": "初めて喧嘩した夜の涙",
+      "koreanPronounce": "하지메테 켄카시타 요루노 나미다",
+      "koreanMeaning": "처음으로 싸웠던 밤의 눈물",
+      "kanjis": [
+        { "kanji": "初", "pronounce": "はじ", "meaning": "처음" },
+        { "kanji": "喧嘩", "pronounce": "けんか", "meaning": "싸움" },
+        { "kanji": "夜", "pronounce": "よる", "meaning": "밤" },
+        { "kanji": "涙", "pronounce": "なみだ", "meaning": "눈물" }
+      ]
+    },
+    {
+      "startTime": 53,
+      "endTime": 58,
+      "japanese": "個人的に胸が痛むけれど",
+      "koreanPronounce": "코진테키니 무네가 이타무케레도",
+      "koreanMeaning": "개인적으로는 가슴이 아프지만",
+      "kanjis": [
+        { "kanji": "個人的", "pronounce": "こじんてき", "meaning": "개인적" },
+        { "kanji": "胸", "pronounce": "むね", "meaning": "가슴" },
+        { "kanji": "痛", "pronounce": "いた", "meaning": "아프다" }
+      ]
+    },
+    {
+      "startTime": 58,
+      "endTime": 62,
+      "japanese": "そのまま見続けよう",
+      "koreanPronounce": "소노 마마 미츠즈케요-",
+      "koreanMeaning": "그대로 계속해서 보자",
+      "kanjis": [
+        { "kanji": "見", "pronounce": "み", "meaning": "보다" },
+        { "kanji": "続", "pronounce": "つづ", "meaning": "계속하다" }
+      ]
+    },
+    {
+      "startTime": 62,
+      "endTime": 65,
+      "japanese": "ごめんねと言って",
+      "koreanPronounce": "고멘네토 잇테",
+      "koreanMeaning": "미안하다고 말하고",
+      "kanjis": [
+        { "kanji": "言", "pronounce": "い", "meaning": "말하다" }
+      ]
+    },
+    {
+      "startTime": 65,
+      "endTime": 72.5,
+      "japanese": "仲直りして手を握って…",
+      "koreanPronounce": "나카나오리시테 테오 니깃테…",
+      "koreanMeaning": "화해하고 손을 잡고…",
+      "kanjis": [
+        { "kanji": "仲直", "pronounce": "なかなお", "meaning": "화해" },
+        { "kanji": "手", "pronounce": "て", "meaning": "손" },
+        { "kanji": "握", "pronounce": "にぎ", "meaning": "잡다" }
+      ]
+    },
+    {
+      "startTime": 72.5,
+      "endTime": 78,
+      "japanese": "ほら、ここで君が笑うシーンが",
+      "koreanPronounce": "호라, 코코데 키미가 와라우 시-은가",
+      "koreanMeaning": "봐, 여기서 네가 웃는 장면이",
+      "kanjis": [
+        { "kanji": "君", "pronounce": "きみ", "meaning": "너" },
+        { "kanji": "笑", "pronounce": "わら", "meaning": "웃다" }
+      ]
+    },
+    {
+      "startTime": 78,
+      "endTime": 82,
+      "japanese": "見どころなんだからさ Ah",
+      "koreanPronounce": "미도코로난다카라사 Ah",
+      "koreanMeaning": "하이라이트니까 Ah",
+      "kanjis": [
+        { "kanji": "見", "pronounce": "み", "meaning": "보다" }
+      ]
+    },
+    {
+      "startTime": 82,
+      "endTime": 87,
+      "japanese": "写真にも映せやしない",
+      "koreanPronounce": "샤신니모 우츠세야 시나이",
+      "koreanMeaning": "사진으로도 담아낼 수 없는",
+      "kanjis": [
+        { "kanji": "写真", "pronounce": "しゃしん", "meaning": "사진" },
+        { "kanji": "映", "pronounce": "うつ", "meaning": "비치다" }
+      ]
+    },
+    {
+      "startTime": 87,
+      "endTime": 92,
+      "japanese": "とても些細なその仕草に",
+      "koreanPronounce": "토테모 사사이나 소노 시구사니",
+      "koreanMeaning": "몹시도 사소한 그 행동거지에",
+      "kanjis": [
+        { "kanji": "些細", "pronounce": "ささい", "meaning": "사소한" },
+        { "kanji": "仕草", "pronounce": "しぐさ", "meaning": "행동" }
+      ]
+    },
+    {
+      "startTime": 92,
+      "endTime": 95,
+      "japanese": "どんな暗いストーリーも",
+      "koreanPronounce": "돈나 쿠라이 스토-리-모",
+      "koreanMeaning": "그 어떤 어두운 스토리도",
+      "kanjis": [
+        { "kanji": "暗", "pronounce": "くら", "meaning": "어둡다" }
+      ]
+    },
+    {
+      "startTime": 95,
+      "endTime": 102,
+      "japanese": "覆す瞬間が溢れてる",
+      "koreanPronounce": "쿠츠가에스 슌칸가 아후레테루",
+      "koreanMeaning": "뒤집어 놓는 순간이 흘러넘치고 있어",
+      "kanjis": [
+        { "kanji": "覆", "pronounce": "くつがえ", "meaning": "뒤집다" },
+        { "kanji": "瞬間", "pronounce": "しゅんかん", "meaning": "순간" },
+        { "kanji": "溢", "pronounce": "あふ", "meaning": "넘치다" }
+      ]
+    },
+    {
+      "startTime": 102,
+      "endTime": 107,
+      "japanese": "どれかひとつを切り取って",
+      "koreanPronounce": "도레카 히토츠오 키리톳테",
+      "koreanMeaning": "어딘가 하나를 잘라서",
+      "kanjis": [
+        { "kanji": "切", "pronounce": "き", "meaning": "자르다" },
+        { "kanji": "取", "pronounce": "と", "meaning": "취하다" }
+      ]
+    },
+    {
+      "startTime": 107,
+      "endTime": 109,
+      "japanese": "サムネイルにしよう",
+      "koreanPronounce": "사무네이루니 시요-",
+      "koreanMeaning": "썸네일로 하자",
+      "kanjis": []
+    },
+    {
+      "startTime": 109,
+      "endTime": 116.5,
+      "japanese": "とりあえず今の所は",
+      "koreanPronounce": "토리아에즈 이마노 토코로와",
+      "koreanMeaning": "급한 대로 지금은 말이야",
+      "kanjis": [
+        { "kanji": "今", "pronounce": "いま", "meaning": "지금" },
+        { "kanji": "所", "pronounce": "ところ", "meaning": "곳" }
+      ]
+    },
+    {
+      "startTime": 116.5,
+      "endTime": 120,
+      "japanese": "きっと10年後くらいには",
+      "koreanPronounce": "킷토 쥬-넨고 쿠라이니와",
+      "koreanMeaning": "분명 10년 후쯤에는",
+      "kanjis": [
+        { "kanji": "年後", "pronounce": "ねんご", "meaning": "년후" }
+      ]
+    },
+    {
+      "startTime": 120,
+      "endTime": 122,
+      "japanese": "キャストが増えたりもするんだろう",
+      "koreanPronounce": "캬스토가 후에타리모 스룬다로-",
+      "koreanMeaning": "배역이 늘어나기도 하겠지",
+      "kanjis": [
+        { "kanji": "増", "pronounce": "ふ", "meaning": "늘어나다" }
+      ]
+    },
+    {
+      "startTime": 122,
+      "endTime": 124,
+      "japanese": "今でも余裕なんてないのに",
+      "koreanPronounce": "이마데모 요유-난테 나이노니",
+      "koreanMeaning": "지금도 여유 같은 건 없는데",
+      "kanjis": [
+        { "kanji": "今", "pronounce": "いま", "meaning": "지금" },
+        { "kanji": "余裕", "pronounce": "よゆう", "meaning": "여유" }
+      ]
+    },
+    {
+      "startTime": 124,
+      "endTime": 127,
+      "japanese": "こんな安月給じゃもうキャパオーバー！",
+      "koreanPronounce": "콘나 야스겟큐-쟈 모- 캬파 오-바-!",
+      "koreanMeaning": "이런 박봉으로는 벌써 한도 초과야!",
+      "kanjis": [
+        { "kanji": "安月給", "pronounce": "やすげっきゅう", "meaning": "박봉" }
+      ]
+    },
+    {
+      "startTime": 127,
+      "endTime": 131,
+      "japanese": "きっと情けないところも",
+      "koreanPronounce": "킷토 나사케나이 토코로모",
+      "koreanMeaning": "분명 한심한 부분도",
+      "kanjis": [
+        { "kanji": "情", "pronounce": "なさ", "meaning": "한심하다" }
+      ]
+    },
+    {
+      "startTime": 131,
+      "endTime": 137,
+      "japanese": "山ほど見せるだろう",
+      "koreanPronounce": "야마 호도 미세루 다로-",
+      "koreanMeaning": "산더미만큼 보여 주겠지",
+      "kanjis": [
+        { "kanji": "山", "pronounce": "やま", "meaning": "산" },
+        { "kanji": "見", "pronounce": "み", "meaning": "보이다" }
+      ]
+    },
+    {
+      "startTime": 137,
+      "endTime": 142,
+      "japanese": "苗字がひとつになった日も",
+      "koreanPronounce": "묘-지가 히토츠니 낫타 히모",
+      "koreanMeaning": "성씨가 하나가 된 날도",
+      "kanjis": [
+        { "kanji": "苗字", "pronounce": "みょうじ", "meaning": "성씨" },
+        { "kanji": "日", "pronounce": "ひ", "meaning": "날" }
+      ]
+    },
+    {
+      "startTime": 142,
+      "endTime": 147,
+      "japanese": "何ひとつ代わり映えのない日も",
+      "koreanPronounce": "나니 히토츠 카와리바에노 나이 히모",
+      "koreanMeaning": "무엇 하나 달라진 것 없는 날도",
+      "kanjis": [
+        { "kanji": "何", "pronounce": "なに", "meaning": "무엇" },
+        { "kanji": "代", "pronounce": "か", "meaning": "변하다" },
+        { "kanji": "映", "pronounce": "ば", "meaning": "돋보이다" },
+        { "kanji": "日", "pronounce": "ひ", "meaning": "날" }
+      ]
+    },
+    {
+      "startTime": 147,
+      "endTime": 151,
+      "japanese": "愛しい日々尊い日々",
+      "koreanPronounce": "이토시이 히비 토-토이 히비",
+      "koreanMeaning": "사랑스러운 나날, 소중한 나날",
+      "kanjis": [
+        { "kanji": "愛", "pronounce": "いと", "meaning": "사랑스럽다" },
+        { "kanji": "日々", "pronounce": "ひび", "meaning": "나날" },
+        { "kanji": "尊", "pronounce": "とうと", "meaning": "소중하다" }
+      ]
+    },
+    {
+      "startTime": 151,
+      "endTime": 157,
+      "japanese": "逃さないように忘れないように",
+      "koreanPronounce": "노가사나이 요-니 와스레나이 요-니",
+      "koreanMeaning": "놓치지 않도록, 잊지 않도록",
+      "kanjis": [
+        { "kanji": "逃", "pronounce": "のが", "meaning": "놓치다" },
+        { "kanji": "忘", "pronounce": "わす", "meaning": "잊다" }
+      ]
+    },
+    {
+      "startTime": 157,
+      "endTime": 161,
+      "japanese": "焼き付けていくよ",
+      "koreanPronounce": "야키츠케테 이쿠요",
+      "koreanMeaning": "마음속에 새겨갈 거야",
+      "kanjis": [
+        { "kanji": "焼", "pronounce": "や", "meaning": "새기다" },
+        { "kanji": "付", "pronounce": "つ", "meaning": "붙이다" }
+      ]
+    },
+    {
+      "startTime": 161,
+      "endTime": 167,
+      "japanese": "今、目を細めて恥じらいあって",
+      "koreanPronounce": "이마, 메오 호소메테 하지라이앗테",
+      "koreanMeaning": "지금, 눈을 가늘게 뜨고 수줍어하며",
+      "kanjis": [
+        { "kanji": "今", "pronounce": "いま", "meaning": "지금" },
+        { "kanji": "目", "pronounce": "め", "meaning": "눈" },
+        { "kanji": "細", "pronounce": "ほそ", "meaning": "가늘게뜨다" },
+        { "kanji": "恥", "pronounce": "は", "meaning": "부끄러워하다" }
+      ]
+    },
+    {
+      "startTime": 167,
+      "endTime": 171,
+      "japanese": "永遠を願った僕たちを",
+      "koreanPronounce": "토와오 네갓타 보쿠타치오",
+      "koreanMeaning": "영원을 바랐던 우리들을",
+      "kanjis": [
+        { "kanji": "永遠", "pronounce": "えいえん", "meaning": "영원" },
+        { "kanji": "願", "pronounce": "ねが", "meaning": "바라다" },
+        { "kanji": "僕", "pronounce": "ぼく", "meaning": "나" }
+      ]
+    },
+    {
+      "startTime": 171,
+      "endTime": 176,
+      "japanese": "すれ違いや憂鬱な展開が",
+      "koreanPronounce": "스레치가이야 유-우츠나 텐카이가",
+      "koreanMeaning": "엇갈림이나 우울한 전개가",
+      "kanjis": [
+        { "kanji": "違", "pronounce": "ちが", "meaning": "다르다" },
+        { "kanji": "憂鬱", "pronounce": "ゆううつ", "meaning": "우울" },
+        { "kanji": "展開", "pronounce": "てんかい", "meaning": "전개" }
+      ]
+    },
+    {
+      "startTime": 176,
+      "endTime": 181,
+      "japanese": "引き裂こうとしたその時には",
+      "koreanPronounce": "히키사코-토 시타 소노 토키니와",
+      "koreanMeaning": "갈라놓으려는 그때에는",
+      "kanjis": [
+        { "kanji": "引", "pronounce": "ひ", "meaning": "끌다" },
+        { "kanji": "裂", "pronounce": "さ", "meaning": "찢다" },
+        { "kanji": "時", "pronounce": "とき", "meaning": "때" }
+      ]
+    },
+    {
+      "startTime": 181,
+      "endTime": 186,
+      "japanese": "僕がうるさいくらいの声量で",
+      "koreanPronounce": "보쿠가 우루사이 쿠라이노 세이료-데",
+      "koreanMeaning": "내가 시끄러울 정도의 목소리로",
+      "kanjis": [
+        { "kanji": "僕", "pronounce": "ぼく", "meaning": "나" },
+        { "kanji": "声量", "pronounce": "せいりょう", "meaning": "성량" }
+      ]
+    },
+    {
+      "startTime": 186,
+      "endTime": 191,
+      "japanese": "この歌何度も歌うよ",
+      "koreanPronounce": "코노 우타 난도모 우타우요",
+      "koreanMeaning": "이 노래를 몇 번이고 부를게",
+      "kanjis": [
+        { "kanji": "歌", "pronounce": "うた", "meaning": "노래" },
+        { "kanji": "何", "pronounce": "なん", "meaning": "몇" },
+        { "kanji": "度", "pronounce": "ど", "meaning": "번" }
+      ]
+    },
+    {
+      "startTime": 191,
+      "endTime": 196,
+      "japanese": "だからどうかそばにいて",
+      "koreanPronounce": "다카라 도-카 소바니 이테",
+      "koreanMeaning": "그러니까 부디 곁에 있어줘",
+      "kanjis": []
+    },
+    {
+      "startTime": 196,
+      "endTime": 198,
+      "japanese": "エンドロールなんてもん",
+      "koreanPronounce": "엔도 로-루 난테 몬",
+      "koreanMeaning": "엔딩 크레딧 같은 건",
+      "kanjis": []
+    },
+    {
+      "startTime": 198,
+      "endTime": 206,
+      "japanese": "作りたくもないから",
+      "koreanPronounce": "츠쿠리 타쿠모 나이카라",
+      "koreanMeaning": "만들고 싶지도 않으니까",
+      "kanjis": [
+        { "kanji": "作", "pronounce": "つく", "meaning": "만들다" }
+      ]
+    },
+    {
+      "startTime": 206,
+      "endTime": 211,
+      "japanese": "クランクアップがいつなのか",
+      "koreanPronounce": "쿠랑쿠 앗푸가 이츠나노카",
+      "koreanMeaning": "크랭크 업이 언제인지는",
+      "kanjis": []
+    },
+    {
+      "startTime": 211,
+      "endTime": 215,
+      "japanese": "僕らには決められない",
+      "koreanPronounce": "보쿠라니와 키메라레나이",
+      "koreanMeaning": "우리가 정할 수 없어",
+      "kanjis": [
+        { "kanji": "僕", "pronounce": "ぼく", "meaning": "우리" },
+        { "kanji": "決", "pronounce": "き", "meaning": "정하다" }
+      ]
+    },
+    {
+      "startTime": 215,
+      "endTime": 221,
+      "japanese": "だから風に吹かれていこう",
+      "koreanPronounce": "다카라 카제니 후카레테 이코-",
+      "koreanMeaning": "그러니까 바람에 날려 가자",
+      "kanjis": [
+        { "kanji": "風", "pronounce": "かぜ", "meaning": "바람" },
+        { "kanji": "吹", "pronounce": "ふ", "meaning": "불다" }
+      ]
+    },
+    {
+      "startTime": 221,
+      "endTime": 226,
+      "japanese": "フィルムは用意したよ",
+      "koreanPronounce": "휘루무와 요-이 시타요",
+      "koreanMeaning": "필름은 준비해 뒀어",
+      "kanjis": [
+        { "kanji": "用意", "pronounce": "ようい", "meaning": "준비" }
+      ]
+    },
+    {
+      "startTime": 226,
+      "endTime": 235,
+      "japanese": "一生分の長さをざっと115万キロ",
+      "koreanPronounce": "잇쇼-분노 나가사오 잣토 햐쿠쥬-고만 키로",
+      "koreanMeaning": "평생 분의 길이를 대략 115만 킬로",
+      "kanjis": [
+        { "kanji": "一生", "pronounce": "いっしょう", "meaning": "평생" },
+        { "kanji": "分", "pronounce": "ぶん", "meaning": "분" },
+        { "kanji": "長", "pronounce": "なが", "meaning": "길이" },
+        { "kanji": "万", "pronounce": "まん", "meaning": "만" }
+      ]
+    },
+    {
+      "startTime": 235,
+      "endTime": 241,
+      "japanese": "ほら、ここで君が笑うシーンが",
+      "koreanPronounce": "호라, 코코데 키미가 와라우 시-은가",
+      "koreanMeaning": "봐, 여기서 네가 웃는 장면이",
+      "kanjis": [
+        { "kanji": "君", "pronounce": "きみ", "meaning": "너" },
+        { "kanji": "笑", "pronounce": "わら", "meaning": "웃다" }
+      ]
+    },
+    {
+      "startTime": 241,
+      "endTime": 246,
+      "japanese": "見どころなんだからさ Ah",
+      "koreanPronounce": "미도코로난다카라사 Ah",
+      "koreanMeaning": "하이라이트니까 Ah",
+      "kanjis": [
+        { "kanji": "見", "pronounce": "み", "meaning": "보다" }
+      ]
+    },
+    {
+      "startTime": 246,
+      "endTime": 250,
+      "japanese": "写真にも映せやしない",
+      "koreanPronounce": "샤신니모 우츠세야 시나이",
+      "koreanMeaning": "사진으로도 담아낼 수 없는",
+      "kanjis": [
+        { "kanji": "写真", "pronounce": "しゃしん", "meaning": "사진" },
+        { "kanji": "映", "pronounce": "うつ", "meaning": "비치다" }
+      ]
+    },
+    {
+      "startTime": 250,
+      "endTime": 255,
+      "japanese": "とても些細なその仕草に",
+      "koreanPronounce": "토테모 사사이나 소노 시구사니",
+      "koreanMeaning": "몹시도 사소한 그 행동거지에",
+      "kanjis": [
+        { "kanji": "些細", "pronounce": "ささい", "meaning": "사소한" },
+        { "kanji": "仕草", "pronounce": "しぐさ", "meaning": "행동" }
+      ]
+    },
+    {
+      "startTime": 255,
+      "endTime": 259,
+      "japanese": "どんな暗いストーリーも",
+      "koreanPronounce": "돈나 쿠라이 스토-리-모",
+      "koreanMeaning": "그 어떤 어두운 스토리도",
+      "kanjis": [
+        { "kanji": "暗", "pronounce": "くら", "meaning": "어둡다" }
+      ]
+    },
+    {
+      "startTime": 259,
+      "endTime": 265,
+      "japanese": "覆す瞬間が溢れてる",
+      "koreanPronounce": "쿠츠가에스 슌칸가 아후레테루",
+      "koreanMeaning": "뒤집어 놓는 순간이 흘러넘치고 있어",
+      "kanjis": [
+        { "kanji": "覆", "pronounce": "くつがえ", "meaning": "뒤집다" },
+        { "kanji": "瞬間", "pronounce": "しゅんかん", "meaning": "순간" },
+        { "kanji": "溢", "pronounce": "あふ", "meaning": "넘치다" }
+      ]
+    },
+    {
+      "startTime": 265,
+      "endTime": 270,
+      "japanese": "どれかひとつを切り取って",
+      "koreanPronounce": "도레카 히토츠오 키리톳테",
+      "koreanMeaning": "어딘가 하나를 잘라서",
+      "kanjis": [
+        { "kanji": "切", "pronounce": "き", "meaning": "자르다" },
+        { "kanji": "取", "pronounce": "と", "meaning": "취하다" }
+      ]
+    },
+    {
+      "startTime": 270,
+      "endTime": 275,
+      "japanese": "サムネイルにしよう",
+      "koreanPronounce": "사무네이루니 시요-",
+      "koreanMeaning": "썸네일로 하자",
+      "kanjis": []
+    },
+    {
+      "startTime": 275,
+      "endTime": 279,
+      "japanese": "さあ、これから生まれる",
+      "koreanPronounce": "사-, 코레카라 우마레루",
+      "koreanMeaning": "자, 이제부터 태어날",
+      "kanjis": [
+        { "kanji": "生", "pronounce": "う", "meaning": "태어나다" }
+      ]
+    },
+    {
+      "startTime": 279,
+      "endTime": 285,
+      "japanese": "名場面を探しにいこうよ",
+      "koreanPronounce": "메이바멘오 사가시니 이코-요",
+      "koreanMeaning": "명장면들을 찾으러 가자",
+      "kanjis": [
+        { "kanji": "名場面", "pronounce": "めいばめん", "meaning": "명장면" },
+        { "kanji": "探", "pronounce": "さが", "meaning": "찾다" }
+      ]
+    },
+    {
+      "startTime": 285,
+      "endTime": 290,
+      "japanese": "酸いも甘いも寄り添って",
+      "koreanPronounce": "스이모 아마이모 요리솟테",
+      "koreanMeaning": "쓴맛도 단맛도 함께하며",
+      "kanjis": [
+        { "kanji": "酸", "pronounce": "す", "meaning": "시다" },
+        { "kanji": "甘", "pronounce": "あま", "meaning": "달다" },
+        { "kanji": "寄", "pronounce": "よ", "meaning": "다가붙다" },
+        { "kanji": "添", "pronounce": "そ", "meaning": "따르다" }
+      ]
+    },
+    {
+      "startTime": 290,
+      "endTime": 293,
+      "japanese": "一緒に味わおう",
+      "koreanPronounce": "잇쇼니 아지와오-",
+      "koreanMeaning": "같이 맛보자",
+      "kanjis": [
+        { "kanji": "一緒", "pronounce": "いっしょ", "meaning": "함께" },
+        { "kanji": "味", "pronounce": "あじ", "meaning": "맛보다" }
+      ]
+    },
+    {
+      "startTime": 293,
+      "endTime": 300,
+      "japanese": "フィルムがなくなるまで",
+      "koreanPronounce": "휘루무가 나쿠나루마데",
+      "koreanMeaning": "필름이 다할 때까지",
+      "kanjis": []
+    },
+    {
+      "startTime": 300,
+      "endTime": 325,
+      "japanese": "撮影を続けようこの命ある限り",
+      "koreanPronounce": "사츠에이오 츠즈케요-코노 이노치 아루 카기리",
+      "koreanMeaning": "촬영을 계속하자 이 생명이 다하는 한",
+      "kanjis": [
+        { "kanji": "撮影", "pronounce": "さつえい", "meaning": "촬영" },
+        { "kanji": "続", "pronounce": "つづ", "meaning": "계속하다" },
+        { "kanji": "命", "pronounce": "いのち", "meaning": "생명" },
+        { "kanji": "限", "pronounce": "かぎ", "meaning": "다하는한" }
+      ]
+    }
+  ]
+}
